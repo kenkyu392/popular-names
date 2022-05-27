@@ -6,7 +6,7 @@
 
 JSON files are in the v1 folder with a male and female file for each year.
 
-```json
+```javascript
 {
   "year": 2021,
   "names": [
